@@ -20,11 +20,7 @@ Copy code
 ### ├── reports/                 # Summary reports and presentations
 ### ├── scripts/                 # Python scripts for data processing
 ### └── README.md
-Project Walkthrough
-A short video walkthrough that covers the analysis workflow and insights derived from the sales data (1-3 minutes). [Attach link or instructions for uploading video]
 
-Features
-The analysis includes:
 
 ## Sales Trend Analysis: Analyze monthly, quarterly, and yearly sales trends.
 Top Products & Categories: Identify the top-performing products, categories, and regions.
@@ -48,7 +44,7 @@ To get started, clone the repository and install dependencies:
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/sales-data-analysis.git
+git clone https://github.com/smlmareedu/Sales-data-analysis.git
 cd sales-data-analysis
 
 # Install dependencies
